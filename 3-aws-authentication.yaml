@@ -9,7 +9,7 @@ data:
   mapUsers: |
     - groups:
       - project-trainee
-      userarn: arn:aws:iam::111122223333:user/admin
+      userarn: arn:aws:iam::111122223333:user/Raju
       username: Raju
 kind: ConfigMap
 metadata:
