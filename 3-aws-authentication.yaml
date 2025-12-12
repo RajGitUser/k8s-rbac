@@ -15,6 +15,14 @@ data:
       - project-admin
       userarn: arn:aws:iam::848332098195:user/Raju
       username: Raju
+    - groups:
+      - project-trainee
+      userarn: arn:aws:iam::848332098195:user/John
+      username: John
+    - groups:
+      - project-trainee
+      userarn: arn:aws:iam::848332098195:user/Ramesh
+      username: Ramesh
 kind: ConfigMap
 metadata:
   creationTimestamp: "2025-12-12T06:32:38Z"
