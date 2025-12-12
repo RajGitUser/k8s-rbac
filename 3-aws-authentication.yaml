@@ -13,7 +13,7 @@ data:
       username: kumar
     - groups:
       - project-admin
-      userarn: arn:aws:iam::848332098195:user/kumar
+      userarn: arn:aws:iam::848332098195:user/Raju
       username: Raju
 kind: ConfigMap
 metadata:
