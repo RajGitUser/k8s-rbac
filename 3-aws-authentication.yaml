@@ -11,6 +11,10 @@ data:
       - project-trainee
       userarn: arn:aws:iam::848332098195:user/kumar
       username: kumar
+    - groups:
+      - project-admin
+      userarn: arn:aws:iam::848332098195:user/kumar
+      username: Raju
 kind: ConfigMap
 metadata:
   creationTimestamp: "2025-12-12T06:32:38Z"
